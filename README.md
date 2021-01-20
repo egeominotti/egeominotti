@@ -10,10 +10,9 @@ If the limit is unattainable, you are the limit.
 </a>
 
 <br />
-<br />
 
-Ciao, sono Egeo Minotti, amo tradurre le idee in progetti ambiziosi, plasmarli sul mercato e renderli un valore aggiunto per le aziende.<br />
-Sono uno sviluppatore full-stack con attenta analisi alle ultime tecnologie 🚀
+Hi, I'm Egeo Minotti, I love to translate ideas into ambitious projects, shape them on the market and make them an added value for companies. <br />
+I am a full-stack developer with careful analysis of the latest technologies 🚀
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
