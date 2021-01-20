@@ -8,7 +8,7 @@
 <br />
 
 Ciao, sono Egeo Minotti, amo tradurre le idee in progetti ambiziosi, plasmarli sul mercato e renderli un valore aggiunto per le aziende.<br />
-Sono uno sviluppatore full-stack con attenta analisi alle ultime tecnologie 🚀 .
+Sono uno sviluppatore full-stack con attenta analisi alle ultime tecnologie 🚀
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
