@@ -1,5 +1,9 @@
 ### Ehilà <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+Creator, Thinker, Developer.
+If the limit is unattainable, you are the limit.
+
 <a href="https://www.linkedin.com/in/egeominotti/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -26,5 +30,3 @@ Sono uno sviluppatore full-stack con attenta analisi alle ultime tecnologie 🚀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-Creator, Thinker, Developer.
-If the limit is unattainable, you are the limit.
