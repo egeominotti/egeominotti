@@ -1,8 +1,6 @@
 ### Ehilà <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-
-
 <a href="https://www.linkedin.com/in/egeominotti/">
   Creator, Thinker, Developer.
 If the limit is unattainable, you are the limit.
@@ -10,6 +8,8 @@ If the limit is unattainable, you are the limit.
 </a>
 
 <br />
+<br />
+
 
 Hi, I'm Egeo Minotti, I love to translate ideas into ambitious projects, shape them on the market and make them an added value for companies. <br />
 I am a full-stack developer with careful analysis of the latest technologies 🚀
