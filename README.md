@@ -1,8 +1,7 @@
 ### Ehilà <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<a href="https://www.linkedin.com/in/egeominotti/">
-Creator, Thinker, Developer.
+<a href="https://www.linkedin.com/in/egeominotti/"> Creator, Thinker, Developer.
 If the limit is unattainable, you are the limit.
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
