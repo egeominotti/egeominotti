@@ -9,6 +9,13 @@ If the limit is unattainable, you are the limit.
 <br />
 <br />
 
+I deal with the creation of Dapps for NFT marketplace, smart contract creation for the Defi network
+
+• Nodejs
+• Solidity
+• Vuejs 2.x/3.x
+• Web3.js / Ether.js
+• Alchemy / Web3 storage / Storj / IPFS
 
 Hi, I'm Egeo Minotti, I love to translate ideas into ambitious projects, shape them on the market and make them an added value for companies. <br />
 I am a full-stack developer with careful analysis of the latest technologies 🚀
