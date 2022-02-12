@@ -9,6 +9,8 @@ If the limit is unattainable, you are the limit.
 <br />
 <br />
 
+<img align="right" alt="GIF" src="https://www.viperblock.xyz/viperblock-logo.png" width="500" height="320" />
+
 I deal with the creation of Dapps for NFT marketplace, smart contract creation for the Defi network
 
 • Nodejs
