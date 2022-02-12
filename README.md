@@ -9,7 +9,7 @@ If the limit is unattainable, you are the limit.
 <br />
 <br />
 
-<img align="right"  src="https://www.viperblock.xyz/viperblock-logo.png" width="100" height="100" />
+<img align="right"  href="https://www.viperblock.xyz/" src="https://www.viperblock.xyz/viperblock-logo.png" width="100" height="100" />
 
 I deal with the creation of Dapps for NFT marketplace, smart contract creation for the Defi network
 
@@ -21,7 +21,8 @@ I deal with the creation of Dapps for NFT marketplace, smart contract creation f
 
 Hi, I'm Egeo Minotti, I love to translate ideas into ambitious projects, shape them on the market and make them an added value for companies. <br />
 I am a full-stack developer with careful analysis of the latest technologies 🚀
-
+<br />
+<br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   <br />
