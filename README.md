@@ -13,7 +13,9 @@ If the limit is unattainable, you are the limit.
 
 I deal with the creation of Dapps for NFT marketplace, smart contract creation for the Defi network
 
-• Nodejs
+• Javascript
+• Python
+• Pact
 • Solidity
 • Vuejs 2.x/3.x
 • Web3.js / Ether.js
