@@ -7,11 +7,8 @@ If the limit is unattainable, you are the limit.
 </a>
 
 <br />
-<br />
 
 <img align="right"  href="https://www.viperblock.xyz/" src="https://www.viperblock.xyz/viperblock-logo.png" width="100" height="100" />
-
-I deal with the creation of Dapps for NFT marketplace, smart contract creation for the Defi network
 
 • Javascript
 • Python
