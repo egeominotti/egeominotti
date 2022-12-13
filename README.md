@@ -10,10 +10,10 @@ If the limit is unattainable, you are the limit.
 
 <img align="right"  href="https://www.viperblock.xyz/" src="https://www.viperblock.xyz/viperblock-logo.png" width="100" height="100" />
 
-• Nodejs / Fastify
+• Nodejs / Golang / Python
 • Pact
 • Solidity
-• Vuejs 2.x/3.x
+• Vuejs 3.x
 • Web3.js / Ether.js
 • Alchemy / Web3 storage / Storj / IPFS
 
