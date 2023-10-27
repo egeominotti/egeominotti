@@ -7,8 +7,6 @@ If the limit is unattainable, you are the limit.
 
 <br />
 
-<img align="right"  href="https://www.viperblock.xyz/" src="https://www.viperblock.xyz/viperblock-logo.png" width="100" height="100" />
-
 • Nodejs / Golang / Python
 • Pact
 • Solidity
