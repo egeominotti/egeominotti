@@ -3,7 +3,6 @@
 
 <a href="https://www.linkedin.com/in/egeominotti/"> Creator, Thinker, Developer.
 If the limit is unattainable, you are the limit.
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
