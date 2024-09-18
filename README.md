@@ -7,12 +7,18 @@ If the limit is unattainable, you are the limit.
 
 <br />
 
-• Nodejs / Golang / Python
-• Pact
-• Solidity
-• Vuejs 3.x
-• Web3.js / Ether.js
-• Alchemy / Web3 storage / Storj / IPFS
+Languages and Frameworks:
+
+Node.js, Golang, Python
+Solidity (for smart contracts)
+Vue.js 3.x
+Pact
+
+Blockchain and Web3 Technologies:
+
+Web3.js / Ethers.js
+Alchemy
+Web3 storage solutions: Storj, IPFS
 
 Hi, I'm Egeo Minotti, I love to translate ideas into ambitious projects, shape them on the market and make them an added value for companies. <br />
 I am a full-stack developer with careful analysis of the latest technologies 🚀
