@@ -13,7 +13,6 @@ Software Engineer | Blockchain Developer
 ## Contact
 - Email: egeominotti@gmail.com
 - LinkedIn: [www.linkedin.com/in/egeominotti](https://www.linkedin.com/in/egeominotti)
-- GitHub: [github.com/egeominotti](https://github.com/egeominotti)
 
 ## Summary
 Passionate full-stack developer and blockchain specialist with a focus on translating innovative ideas into ambitious projects. Experienced in creating value for companies through cutting-edge technologies.
