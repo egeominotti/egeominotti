@@ -7,18 +7,43 @@ If the limit is unattainable, you are the limit.
 
 <br />
 
-Languages and Frameworks:
+# Egeo Minotti
+Software Engineer | Blockchain Developer | Full-Stack Expert
 
-Node.js, Golang, Python
-Solidity (for smart contracts)
-Vue.js 3.x
-Pact
+## Contact
+- Email: egeominotti@gmail.com
+- LinkedIn: [www.linkedin.com/in/egeominotti](https://www.linkedin.com/in/egeominotti)
+- GitHub: [github.com/egeominotti](https://github.com/egeominotti)
 
-Blockchain and Web3 Technologies:
+## Summary
+Passionate full-stack developer and blockchain specialist with a focus on translating innovative ideas into ambitious projects. Experienced in creating value for companies through cutting-edge technologies.
 
-Web3.js / Ethers.js
-Alchemy
-Web3 storage solutions: Storj, IPFS
+## Key Skills
+- Languages: Python, JavaScript, Golang, Solidity
+- Frameworks: Django, Node.js (Fastify), Fiber (Go), Bun (Elysia), Vue.js 3.x, Nuxt.js 3
+- Blockchain: Ethereum (Optimism / Arbitrum One), Kadena, Web3.js, Ethers.js
+- Databases: PostgreSQL, MySQL, MongoDB
+- DevOps: Docker, CI/CD, AWS, DigitalOcean, Hetzner, Vercel, Cloudflare
+- Other: GraphQL, Prisma ORM, Redis, Web3 storage (IPFS, Storj)
+
+## Professional Experience
+
+### CRURATED
+**Senior Software Engineer** (January 2024 - Present)
+- Developing a trading platform for real-world assets (similar to OpenSea)
+- Working with Layer 2 solutions: Polygon, Arbitrum
+- Implementing KYC/KYT/KYB processes using Sumsub and Chainalysis
+- Developing meta transactions with relayers
+- Using Typescript with Elysia framework and Bun runtime
+- Integrating Web3 technologies: Viem, Wagmi, Web3Auth
+
+### Viperblock
+**Blockchain Analyst | Blockchain Developer | Co-Founder** (February 2022 - August 2024)
+- Focused on DeFi sector, designing multi-chain automatic AMM systems
+- Developed smart contracts (ERC20, ERC721, ERC1155) using OpenZeppelin
+- Utilized Ethereum frameworks: Hardhat, Truffle
+- Integrated Web3 services: Alchemy, Pinata Cloud, Web3 storage, Storj, IPFS
+
 
 Hi, I'm Egeo Minotti, I love to translate ideas into ambitious projects, shape them on the market and make them an added value for companies. <br />
 I am a full-stack developer with careful analysis of the latest technologies 🚀
