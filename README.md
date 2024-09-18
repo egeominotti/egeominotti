@@ -8,7 +8,7 @@ If the limit is unattainable, you are the limit.
 <br />
 
 # Egeo Minotti
-Software Engineer | Blockchain Developer | Full-Stack Expert
+Software Engineer | Blockchain Developer
 
 ## Contact
 - Email: egeominotti@gmail.com
@@ -29,7 +29,7 @@ Passionate full-stack developer and blockchain specialist with a focus on transl
 ## Professional Experience
 
 ### CRURATED
-**Senior Software Engineer** (January 2024 - Present)
+**Senior Software Engineer**
 - Developing a trading platform for real-world assets (similar to OpenSea)
 - Working with Layer 2 solutions: Polygon, Arbitrum
 - Implementing KYC/KYT/KYB processes using Sumsub and Chainalysis
@@ -38,7 +38,7 @@ Passionate full-stack developer and blockchain specialist with a focus on transl
 - Integrating Web3 technologies: Viem, Wagmi, Web3Auth
 
 ### Viperblock
-**Blockchain Analyst | Blockchain Developer | Co-Founder** (February 2022 - August 2024)
+**Blockchain Analyst | Blockchain Developer | Co-Founder** 
 - Focused on DeFi sector, designing multi-chain automatic AMM systems
 - Developed smart contracts (ERC20, ERC721, ERC1155) using OpenZeppelin
 - Utilized Ethereum frameworks: Hardhat, Truffle
