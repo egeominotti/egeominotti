@@ -19,9 +19,9 @@ Passionate full-stack developer and blockchain specialist with a focus on transl
 
 ## Key Skills
 - Languages: Python, JavaScript, Golang, Solidity
-- Frameworks: Django, Node.js (Fastify), Fiber (Go), Bun (Elysia), Vue.js 3.x, Nuxt.js 3
-- Blockchain: Ethereum (Optimism / Arbitrum One), Kadena, Web3.js, Ethers.js
-- Databases: PostgreSQL, MySQL, MongoDB
+- Frameworks: Django, Node.js (Fastify), Fiber (Go), Bun (Elysia)
+- Blockchain: Ethereum (Optimism / Arbitrum One)
+- Databases: PostgreSQ
 - DevOps: Docker, CI/CD, AWS, DigitalOcean, Hetzner, Vercel, Cloudflare
 - Other: GraphQL, Prisma ORM, Redis, Web3 storage (IPFS, Storj)
 
