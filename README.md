@@ -1,64 +1,58 @@
-### Ehilà <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-<a href="https://www.linkedin.com/in/egeominotti/"> Creator, Thinker, Developer.
-If the limit is unattainable, you are the limit.
-</a>
-
-<br />
+### Hey there 👋
 
 # Egeo Minotti
-Software Engineer | Blockchain Developer
 
-## Contact
-- Email: egeominotti@gmail.com
-- LinkedIn: [www.linkedin.com/in/egeominotti](https://www.linkedin.com/in/egeominotti)
+**Software Engineer | Blockchain Developer | AI Agent Builder**
 
-## Summary
-Passionate full-stack developer and blockchain specialist with a focus on translating innovative ideas into ambitious projects. Experienced in creating value for companies through cutting-edge technologies.
+> If the limit is unattainable, you are the limit.
 
-## Key Skills
-- Languages: Python, JavaScript, Golang, Solidity
-- Frameworks: Django, Node.js (Fastify), Fiber (Go), Bun (Elysia)
-- Blockchain: Ethereum (Optimism / Arbitrum One)
-- Databases: PostgreSQ
-- DevOps: Docker, CI/CD, AWS, DigitalOcean, Hetzner, Vercel, Cloudflare
-- Other: GraphQL, Prisma ORM, Redis, Web3 storage (IPFS, Storj)
+I turn ambitious ideas into real products — from DeFi protocols to AI agent platforms.
 
-## Professional Experience
+---
 
-### CRURATED
-**Senior Software Engineer**
-- Developing a trading platform for real-world assets (similar to OpenSea)
-- Working with Layer 2 solutions: Polygon, Arbitrum
-- Implementing KYC/KYT/KYB processes using Sumsub and Chainalysis
-- Developing meta transactions with relayers
-- Using Typescript with Elysia framework and Bun runtime
-- Integrating Web3 technologies: Viem, Wagmi, Web3Auth
+### 🔭 What I'm working on
 
-### Viperblock
-**Blockchain Analyst | Blockchain Developer | Co-Founder** 
-- Focused on DeFi sector, designing multi-chain automatic AMM systems
-- Developed smart contracts (ERC20, ERC721, ERC1155) using OpenZeppelin
-- Utilized Ethereum frameworks: Hardhat, Truffle
-- Integrated Web3 services: Alchemy, Pinata Cloud, Web3 storage, Storj, IPFS
+- **[Neo](https://github.com/egeominotti/neo)** — AI agent platform powered by Claude with auto-team orchestration, Telegram bot & REPL interfaces (TypeScript / Bun / SQLite)
+- **CRURATED** — Real-world asset trading platform on Layer 2 (Arbitrum, Polygon) with KYC/KYT, meta-transactions & Web3Auth
+- **Viperblock** (Co-Founder) — Multi-chain DeFi systems with automatic AMM, smart contracts (ERC20/721/1155)
 
+---
 
-Hi, I'm Egeo Minotti, I love to translate ideas into ambitious projects, shape them on the market and make them an added value for companies. <br />
-I am a full-stack developer with careful analysis of the latest technologies 🚀
-<br />
-  
-  <br />
-  <br />
-  
-**Languages and Tools:**  
+### ⚡ Tech Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
+**Runtime & Frameworks**
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Elysia](https://img.shields.io/badge/-Elysia-7C3AED?style=flat-square)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Blockchain**
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/-Arbitrum-28A0F0?style=flat-square)
+![Optimism](https://img.shields.io/badge/-Optimism-FF0420?style=flat-square)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logoColor=black)
+
+**Data & Infra**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Web3 Tools**
+Viem · Wagmi · Web3Auth · OpenZeppelin · IPFS · Storj · Alchemy · GraphQL · Prisma
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egeominotti/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:egeominotti@gmail.com)
