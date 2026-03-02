@@ -12,6 +12,8 @@ I turn ambitious ideas into real products — from DeFi protocols to AI agent pl
 
 ### 🔭 What I'm working on
 
+- **[bunqueue](https://github.com/egeominotti/bunqueue)** — High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents & automation
+- **[Synapse](https://github.com/egeominotti/Synapse)** — Lightweight Claude AI agent for Telegram, with memory, scheduled jobs & containerized security. Built on Anthropic's Agents SDK
 - **[Neo](https://github.com/egeominotti/neo)** — AI agent platform powered by Claude with auto-team orchestration, Telegram bot & REPL interfaces (TypeScript / Bun / SQLite)
 - **CRURATED** — Real-world asset trading platform on Layer 2 (Arbitrum, Polygon) with KYC/KYT, meta-transactions & Web3Auth
 - **Viperblock** (Co-Founder) — Multi-chain DeFi systems with automatic AMM, smart contracts (ERC20/721/1155)
