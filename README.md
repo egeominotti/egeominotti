@@ -73,16 +73,16 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 
 ### Industry Experience
 
-| Period | Company | Role | Stack |
-|--------|---------|------|-------|
-| 2024 — 2025 | **CRURATED** | Head of Engineering | Elysia/Bun, Solidity, Polygon, Arbitrum, Avax, PostgreSQL, Redis, Stripe, OpenTelemetry |
-| 2022 — 2024 | **Viperblock** (Co-Founder) | Blockchain Developer | Solidity, Hardhat, Node.js, Go, Alchemy, IPFS, Storj, Docker |
-| 2018 — 2024 | **Funer24** (Freelance) | Full Stack Engineer | Django, Fastify, Go, Vue.js/Nuxt, PostgreSQL, Puppeteer, AWS, Cloudflare |
-| 2020 — 2022 | **OfCourseMe** | Senior Backend Engineer | PHP/Symfony, Redis, Selenium, MySQL, MongoDB |
-| 2020 — 2022 | **Asap24** (Freelance) | Backend Engineer | Django, DRF, PostgreSQL, WebSocket, Docker |
-| 2019 — 2020 | **YOCABE** | Backend Engineer | PHP/Symfony, API Platform, MySQL, Docker |
-| 2018 — 2019 | **Eveilidia Group** | Software Developer | Django, DRF, Celery, ElasticSearch, PostgreSQL |
-| 2014 | **LUISS ENLABS** | Full Stack Developer | Laravel, jQuery, MySQL |
+| Company | Role | Stack |
+|---------|------|-------|
+| **CRURATED** | Head of Engineering | Elysia/Bun, Solidity, Polygon, Arbitrum, Avax, PostgreSQL, Redis, Stripe, OpenTelemetry |
+| **Viperblock** (Co-Founder) | Blockchain Developer | Solidity, Hardhat, Node.js, Go, Alchemy, IPFS, Storj, Docker |
+| **Funer24** (Freelance) | Full Stack Engineer | Django, Fastify, Go, Vue.js/Nuxt, PostgreSQL, Puppeteer, AWS, Cloudflare |
+| **OfCourseMe** | Senior Backend Engineer | PHP/Symfony, Redis, Selenium, MySQL, MongoDB |
+| **Asap24** (Freelance) | Backend Engineer | Django, DRF, PostgreSQL, WebSocket, Docker |
+| **YOCABE** | Backend Engineer | PHP/Symfony, API Platform, MySQL, Docker |
+| **Eveilidia Group** | Software Developer | Django, DRF, Celery, ElasticSearch, PostgreSQL |
+| **LUISS ENLABS** | Full Stack Developer | Laravel, jQuery, MySQL |
 
 ---
 
