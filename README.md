@@ -137,15 +137,6 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=egeominotti&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeominotti&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=egeominotti&theme=github-dark-blue&hide_border=true" width="600" />
-
-<br/><br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=egeominotti&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
