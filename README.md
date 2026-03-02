@@ -73,10 +73,16 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 
 ### Industry Experience
 
-| Company | Role | Domain |
-|---------|------|--------|
-| **CRURATED** | Software Engineer | Real-world asset trading on L2 (Arbitrum, Polygon) |
-| **Viperblock** | Co-Founder | Multi-chain DeFi — AMM, smart contracts (ERC20/721/1155) |
+| Period | Company | Role | Stack |
+|--------|---------|------|-------|
+| 2024 — 2025 | **CRURATED** | Head of Engineering | Elysia/Bun, Solidity, Polygon, Arbitrum, Avax, PostgreSQL, Redis, Stripe, OpenTelemetry |
+| 2022 — 2024 | **Viperblock** (Co-Founder) | Blockchain Developer | Solidity, Hardhat, Node.js, Go, Alchemy, IPFS, Storj, Docker |
+| 2018 — 2024 | **Funer24** (Freelance) | Full Stack Engineer | Django, Fastify, Go, Vue.js/Nuxt, PostgreSQL, Puppeteer, AWS, Cloudflare |
+| 2020 — 2022 | **OfCourseMe** | Senior Backend Engineer | PHP/Symfony, Redis, Selenium, MySQL, MongoDB |
+| 2020 — 2022 | **Asap24** (Freelance) | Backend Engineer | Django, DRF, PostgreSQL, WebSocket, Docker |
+| 2019 — 2020 | **YOCABE** | Backend Engineer | PHP/Symfony, API Platform, MySQL, Docker |
+| 2018 — 2019 | **Eveilidia Group** | Software Developer | Django, DRF, Celery, ElasticSearch, PostgreSQL |
+| 2014 | **LUISS ENLABS** | Full Stack Developer | Laravel, jQuery, MySQL |
 
 ---
 
@@ -93,6 +99,7 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 </td>
 <td valign="top" width="25%">
@@ -104,6 +111,7 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 ![Elysia](https://img.shields.io/badge/Elysia-7C3AED?style=flat-square)
 ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=white)
 
 </td>
 <td valign="top" width="25%">
@@ -113,6 +121,7 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square)
 ![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=flat-square)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
 
 </td>
@@ -131,7 +140,7 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 </tr>
 </table>
 
-`Viem` · `Wagmi` · `Web3Auth` · `OpenZeppelin` · `IPFS` · `Storj` · `Alchemy` · `GraphQL` · `Prisma`
+`Viem` · `Wagmi` · `Web3Auth` · `OpenZeppelin` · `IPFS` · `Storj` · `Alchemy` · `Stripe` · `GraphQL` · `Prisma` · `OpenTelemetry`
 
 ---
 
