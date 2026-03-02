@@ -26,7 +26,7 @@ I turn ambitious ideas into real products — from high-performance infrastructu
 
 #### [⚡ bunqueue](https://github.com/egeominotti/bunqueue)
 High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, priorities, S3 backups.
-Built for AI agents & automation.
+Built for AI agents &amp; automation.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
@@ -49,7 +49,7 @@ Blazingly fast job queue server. Millions of jobs/sec with sub-millisecond laten
 <td width="50%" valign="top">
 
 #### [🎨 binja](https://github.com/egeominotti/binja)
-Multi-engine template system for Bun. Jinja2/DTL, Handlebars & Liquid. 2-4x faster than Nunjucks, 160x with AOT.
+Multi-engine template system for Bun. Jinja2/DTL, Handlebars &amp; Liquid. 2-4x faster than Nunjucks, 160x with AOT.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
@@ -75,8 +75,8 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 
 | Company | Role | Domain |
 |---------|------|--------|
-| **CRURATED** | Software Engineer | Real-world asset trading on Layer 2 (Arbitrum, Polygon) — KYC/KYT, meta-transactions, Web3Auth |
-| **Viperblock** | Co-Founder | Multi-chain DeFi systems — AMM, smart contracts (ERC20/721/1155) |
+| **CRURATED** | Software Engineer | Real-world asset trading on L2 (Arbitrum, Polygon) |
+| **Viperblock** | Co-Founder | Multi-chain DeFi — AMM, smart contracts (ERC20/721/1155) |
 
 ---
 
@@ -97,7 +97,7 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 </td>
 <td valign="top" width="25%">
 
-**Runtime & Frameworks**
+**Runtime &amp; Frameworks**
 
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -142,7 +142,7 @@ Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=egeominotti&theme=github-dark-blue&hide_border=true" width="600" />
+<img src="https://streak-stats.demolab.com/?user=egeominotti&theme=github-dark-blue&hide_border=true" width="600" />
 
 <br/><br/>
 
