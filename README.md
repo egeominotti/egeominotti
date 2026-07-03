@@ -58,7 +58,7 @@ Multi-engine template system for Bun. Jinja2/DTL, Handlebars &amp; Liquid. 2-4x 
 </td>
 <td width="50%" valign="top">
 
-#### [📊 bunqueue dashboard](https://github.com/egeominotti/bunqueue-dashboard)
+#### [🎛️ bunqueue dashboard](https://github.com/egeominotti/bunqueue-dashboard)
 Web dashboard that fully drives a bunqueue server — queues, jobs, DLQ, cron, flows, live activity, and the server process itself. `bunx bunqueue-dashboard`, zero dependencies.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
