@@ -58,12 +58,13 @@ Multi-engine template system for Bun. Jinja2/DTL, Handlebars &amp; Liquid. 2-4x 
 </td>
 <td width="50%" valign="top">
 
-#### [🧠 Synapse](https://github.com/egeominotti/Synapse)
-Lightweight Claude AI agent for Telegram. Memory, scheduled jobs, containerized security. Built on Anthropic's Agents SDK.
+#### [📊 bunqueue dashboard](https://github.com/egeominotti/bunqueue-dashboard)
+Web dashboard that fully drives a bunqueue server — queues, jobs, DLQ, cron, flows, live activity, and the server process itself. `bunx bunqueue-dashboard`, zero dependencies.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/egeominotti/Synapse?style=flat-square&color=yellow)](https://github.com/egeominotti/Synapse)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+[![npm](https://img.shields.io/npm/v/bunqueue-dashboard?style=flat-square&logo=npm&color=cb3837)](https://www.npmjs.com/package/bunqueue-dashboard)
+[![Stars](https://img.shields.io/github/stars/egeominotti/bunqueue-dashboard?style=flat-square&color=yellow)](https://github.com/egeominotti/bunqueue-dashboard)
 
 </td>
 </tr>
