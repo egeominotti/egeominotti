@@ -22,7 +22,7 @@ I take ideas all the way to products people use: high-performance backends, on-c
 
 <a href="https://github.com/egeominotti/agentvm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/egeominotti/agentvm/main/docs/assets/logo-dark.svg"><img src="https://raw.githubusercontent.com/egeominotti/agentvm/main/docs/assets/logo-light.svg" alt="agentvm logo" width="96" height="96" align="left"></picture></a>
 
-**Every terminal is a sealed machine.** Run Claude Code agents in parallel on your Mac, each in its own disposable Debian VM: ready in about 2 seconds, root inside, nothing touches your files. Watch and drive every VM from one dashboard; the work comes back to your repository as an `agent/<id>` branch. Snapshots, S3 backups and Tailscale included.
+**Every terminal is a sealed machine.** Built for Macs with Apple silicon: it runs Claude Code agents in parallel, each in its own disposable Debian arm64 VM on Apple’s native Virtualization.framework, ready in about 2 seconds, root inside, nothing touches your files. Watch and drive every VM from one dashboard; the work comes back to your repository as an `agent/<id>` branch. Snapshots, S3 backups and Tailscale included.
 
 <br clear="left"/>
 
