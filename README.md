@@ -18,13 +18,16 @@ I take ideas all the way to products people use: high-performance backends, on-c
 
 ---
 
-### 🆕 New project: [agentvm](https://github.com/egeominotti/agentvm)
+### 🆕 New project: [agentvm](https://github.com/egeominotti/agentvm) · for Apple silicon Macs
 
 <a href="https://github.com/egeominotti/agentvm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/egeominotti/agentvm/main/docs/assets/logo-dark.svg"><img src="https://raw.githubusercontent.com/egeominotti/agentvm/main/docs/assets/logo-light.svg" alt="agentvm logo" width="96" height="96" align="left"></picture></a>
 
 **Every terminal is a sealed machine.** Built for Macs with Apple silicon: it runs Claude Code agents in parallel, each in its own disposable Debian arm64 VM on Apple’s native Virtualization.framework, ready in about 2 seconds, root inside, nothing touches your files. Watch and drive every VM from one dashboard; the work comes back to your repository as an `agent/<id>` branch. Snapshots, S3 backups and Tailscale included.
 
 <br clear="left"/>
+
+> [!IMPORTANT]
+> **Requires a Mac with Apple silicon (M1 or later)** and a recent macOS. agentvm uses Apple’s Virtualization.framework to boot Debian arm64 VMs, so it does not run on Intel Macs, Linux or Windows.
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
