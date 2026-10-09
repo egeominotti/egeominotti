@@ -12,7 +12,7 @@
 
 > *If the limit is unattainable, you are the limit.*
 
-I turn ambitious ideas into real products — from high-performance infrastructure to DeFi protocols and AI agent platforms.
+I take ideas all the way to products people use: high-performance backends, on-chain protocols and the tools AI agents run on. Built fast, built to last.
 
 </div>
 
