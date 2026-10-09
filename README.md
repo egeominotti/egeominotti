@@ -18,6 +18,24 @@ I turn ambitious ideas into real products — from high-performance infrastructu
 
 ---
 
+### 🆕 New project: [agentvm](https://github.com/egeominotti/agentvm)
+
+<a href="https://github.com/egeominotti/agentvm"><img src="https://raw.githubusercontent.com/egeominotti/agentvm/main/docs/assets/wall.webp" alt="agentvm: ten VMs on one Mac, seven Claude Code agents waiting for review" width="100%"></a>
+
+**Every terminal is a sealed machine.** Run Claude Code agents in parallel on your Mac, each in its own disposable Debian VM: ready in about 2 seconds, root inside, nothing touches your files. Watch and drive every VM from one dashboard; the work comes back to your repository as an `agent/<id>` branch. Snapshots, S3 backups and Tailscale included.
+
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Apple%20silicon-111?style=flat-square&logo=apple&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/egeominotti/agentvm?style=flat-square&color=yellow)](https://github.com/egeominotti/agentvm)
+
+```bash
+git clone https://github.com/egeominotti/agentvm.git && cd agentvm && ./quickstart
+```
+
+---
+
 ### Featured Projects
 
 <table>
