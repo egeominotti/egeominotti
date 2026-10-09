@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="186" viewBox="0 0 830 186" role="img" aria-label="bunqueue: Clients for Node.js, Deno, Python, PHP, Go, Rust, Elixir and Bun. SQLite by default, PostgreSQL when you scale. DLQ, cron, S3 backups, native MCP. No Redis.">
+<title>bunqueue: Clients for Node.js, Deno, Python, PHP, Go, Rust, Elixir and Bun. SQLite by default, PostgreSQL when you scale. DLQ, cron, S3 backups, native MCP. No Redis.</title>
+<style></style>
+<rect x="1" y="1" width="828" height="184" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<rect x="22" y="24" width="4" height="26" rx="2" fill="#f472b6"/>
+<text x="36" y="46" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#e6edf3" text-anchor="start" letter-spacing="-.5">bunqueue</text>
+<text x="808" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8b949e" text-anchor="end">bunqueue.dev  ↗</text>
+<text x="24" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#e6edf3" text-anchor="start">Add a background job in one language. Process it in another.</text>
+<text x="24" y="106" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#8b949e" text-anchor="start">Clients for Node.js, Deno, Python, PHP, Go, Rust, Elixir and Bun.</text>
+<text x="24" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#8b949e" text-anchor="start">SQLite by default, PostgreSQL when you scale. DLQ, cron, S3 backups, native MCP. No Redis.</text>
+<circle cx="30" cy="160" r="6" fill="#3178c6"/>
+<text x="44" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8b949e" text-anchor="start" textLength="432.0" lengthAdjust="spacingAndGlyphs">TypeScript  ·  Bun  ·  SQLite  ·  PostgreSQL  ·  MCP  ·  MIT</text>
+</svg>

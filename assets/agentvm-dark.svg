@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="200" viewBox="0 0 830 200" role="img" aria-label="agentvm: Claude Code agents in parallel, each in its own disposable Debian VM. Apple silicon only.">
+<title>agentvm: Claude Code agents in parallel, each in its own disposable Debian VM. Apple silicon only.</title>
+<style>.blk{animation:pulse 2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+
+<defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#a08cff"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<rect x="1" y="1" width="828" height="198" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<rect x="1" y="1" width="828" height="4" rx="2" fill="url(#edge)"/>
+<rect x="28" y="36" width="136" height="136" rx="18" fill="#0d1117" stroke="#30363d"/>
+<g transform="translate(44 52) scale(1.625)"><g stroke="#e6edf3" stroke-width="5" stroke-linecap="square" fill="none"><path d="M6 20V6h14"/><path d="M44 6h14v14"/><path d="M58 44v14H44"/><path d="M20 58H6V44"/></g><rect class="blk" x="22" y="22" width="12" height="20" fill="#a08cff"/><rect x="38" y="36" width="6" height="6" fill="#e6edf3" opacity=".5"/></g>
+<rect x="196" y="26" width="37.8" height="22" rx="11" fill="#a08cff" stroke="#a08cff"/><text x="205" y="41" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#0d1117" text-anchor="start" textLength="19.8" lengthAdjust="spacingAndGlyphs">NEW</text><rect x="241.8" y="26" width="136.8" height="22" rx="11" fill="none" stroke="#d29922"/><text x="250.8" y="41" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#d29922" text-anchor="start" textLength="118.8" lengthAdjust="spacingAndGlyphs">APPLE SILICON ONLY</text>
+<text x="196" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#e6edf3" text-anchor="start" letter-spacing="-1">agentvm</text>
+<text x="802" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8b949e" text-anchor="end">github.com/egeominotti/agentvm  ↗</text>
+<text x="196" y="120" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#e6edf3" text-anchor="start">Every terminal is a sealed machine.</text>
+<text x="196" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#8b949e" text-anchor="start">Claude Code agents in parallel on your Mac, each in its own disposable Debian VM.</text>
+<text x="196" y="178" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8b949e" text-anchor="start" textLength="568.8" lengthAdjust="spacingAndGlyphs">~2 s to a ready VM  ·  root inside  ·  work back as a branch  ·  snapshots + S3</text>
+
+</svg>
